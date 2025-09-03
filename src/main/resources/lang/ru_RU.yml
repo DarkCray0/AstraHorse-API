@@ -1,0 +1,33 @@
+prefix: "&8[&6AstraHorse&8] &7⏩ &r"
+
+no_permission: "&cУ вас нет прав!"
+only_player: "&cЭта команда доступна только игрокам!"
+config_reloaded: "&aКонфигурация и переводы перезагружены!"
+action_cancel: "&aДействие было отменено!"
+
+ConfigMenu:
+  main_page: "Главное меню"
+  category: " (категория)"
+  value: "&7Значение: "
+  new_value_set: "&aЗначение %key% обновлено: %newVal%"
+  write_new_value: "&bНапиши новое значение для %key% в чат. Либо cancel для отмены!"
+
+command:
+  usage: "&eИспользование: /astraHorse <reload|getItem|info>"
+
+getitem_usage: "&eИспользование: /astraHorse getItem <saddle|whistle>"
+getitem_invalid: "&cНеверный тип предмета!"
+getitem_success: "&aПредмет выдан!"
+
+not_a_horse: "&cСначала посмотрите на лошадь!"
+horse_info: "&eИнформация о лошади:"
+
+whistle_not_owner: "&cЭто не ваша лошадь!"
+whistle_not_tamed: "&cЭта лошадь ещё не приручена!"
+whistle_linked: "&aЛошадь привязана к свистку!"
+whistle_unlinked: "&eЛошадь отвязана от свистка!"
+whistle_not_linked: "&cСвисток не привязан к лошади!"
+whistle_horse_not_found: "&cЛошадь не найдена!"
+whistle_horse_summoned: "-"
+
+saddle_equipped: "&aВы одели на свою лошадь второе седло!"
