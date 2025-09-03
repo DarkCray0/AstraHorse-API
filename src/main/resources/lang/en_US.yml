@@ -1,0 +1,33 @@
+prefix: "&8[&6AstraHorse&8] &7⏩ &r"
+
+no_permission: "&cYou don't have permission!"
+only_player: "&cThis command is only available to players.!"
+config_reloaded: "&aConfiguration and translations have been reloaded!"
+action_cancel: "&aThe action was canceled!"
+
+ConfigMenu:
+  main_page: "Main menu"
+  category: " (category)"
+  value: "&7Value: "
+  new_value_set: "&aValue of the %key% is set to: %newVal%"
+  write_new_value: "&bWrite a new value for %key% in the chat. Or cancel to cancel!"
+
+command:
+  usage: "&Usage: /astraHorse <reload|getItem|info>"
+
+getitem_usage: "&Usage: /astraHorse getItem <saddle|whistle>"
+getitem_invalid: "&cInvalid item type!"
+getitem_success: "&aThe item is given!"
+
+not_a_horse: "&cFirst look at the horse!"
+horse_info: "&eHorse Information:"
+
+whistle_not_owner: "&cThis is not your horse.!"
+whistle_not_tamed: "&cThis horse is not yet tamed.!"
+whistle_linked: "&aThe horse is tied to the whistle!"
+whistle_unlinked: "&eThe horse is untied from the whistle!"
+whistle_not_linked: "&cThe whistle is not attached to the horse.!"
+whistle_horse_not_found: "&cHorse not found!"
+whistle_horse_summoned: "-"
+
+saddle_equipped: "&aYou put a second saddle on your horse.!"
