@@ -13,7 +13,7 @@ ConfigMenu:
   write_new_value: "&bWrite a new value for %key% in the chat. Or cancel to cancel!"
 
 command:
-  usage: "&Usage: /astraHorse <reload|getItem|info>"
+  usage: "&Usage: /astraHorse <reload|getItem|info|menu>"
 
 getitem_usage: "&Usage: /astraHorse getItem <saddle|whistle>"
 getitem_invalid: "&cInvalid item type!"
