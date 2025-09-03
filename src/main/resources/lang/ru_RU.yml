@@ -13,7 +13,7 @@ ConfigMenu:
   write_new_value: "&bНапиши новое значение для %key% в чат. Либо cancel для отмены!"
 
 command:
-  usage: "&eИспользование: /astraHorse <reload|getItem|info>"
+  usage: "&eИспользование: /astraHorse <reload|getItem|info|menu>"
 
 getitem_usage: "&eИспользование: /astraHorse getItem <saddle|whistle>"
 getitem_invalid: "&cНеверный тип предмета!"
