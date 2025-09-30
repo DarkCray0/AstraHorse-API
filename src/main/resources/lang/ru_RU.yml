@@ -13,9 +13,9 @@ ConfigMenu:
   write_new_value: "&bНапиши новое значение для %key% в чат. Либо cancel для отмены!"
 
 command:
-  usage: "&eИспользование: /astraHorse <reload|getItem|info|menu>"
+  usage: "&eИспользование: /astraHorse <reload|get|info>"
 
-getitem_usage: "&eИспользование: /astraHorse getItem <saddle|whistle>"
+getitem_usage: "&eИспользование: /astraHorse get <saddle|whistle>"
 getitem_invalid: "&cНеверный тип предмета!"
 getitem_success: "&aПредмет выдан!"
 
@@ -29,5 +29,4 @@ whistle_unlinked: "&eЛошадь отвязана от свистка!"
 whistle_not_linked: "&cСвисток не привязан к лошади!"
 whistle_horse_not_found: "&cЛошадь не найдена!"
 whistle_horse_summoned: "-"
-
-saddle_equipped: "&aВы одели на свою лошадь второе седло!"
+player_on_the_horse: "&cЛошадь не может прибежать с игроком на ней!"
